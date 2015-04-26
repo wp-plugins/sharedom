@@ -4,7 +4,7 @@
 Plugin Name: Sharedom
 Plugin URI: https://wordpress.org/plugins/sharedom/
 Description: Responsive sharing buttons for sharing current URL to Facebook, Twitter and Google+
-Version: 1.0.1
+Version: 1.0.6
 Author: Kunal Nagar
 Author URI: http://kunalnagar.in
 License: GPL-2.0+
