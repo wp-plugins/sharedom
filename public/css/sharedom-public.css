@@ -1,0 +1,59 @@
+/**
+ * All of the CSS for your public-facing functionality should be
+ * included in this file.
+ */
+
+.hide {
+    display: none;
+}
+
+/* COMMON */
+.sharedom-btn {
+    text-decoration: none !important;
+    font-size: 90%;
+    padding: 1%;
+    margin-right: 1%;
+    color: white;
+    width: 30%;
+    text-align: center;
+}
+
+.sharedom-btn:visited {
+    color: white !important;
+}
+
+.sharedom-btn:hover {
+    color: white;
+}
+
+.sharedom-btn i {
+    margin-left: 1%;
+    margin-right: 1%;
+}
+
+/* FACEBOOK */
+.sharedom-facebook {
+    background: #4c69ba;
+}
+
+.sharedom-facebook:hover {
+    background: #5b7bd5;
+}
+
+/* TWITTER */
+.sharedom-twitter {
+    background-color: #55ACEE;
+}
+
+.sharedom-twitter:hover {
+    background-color: #65BCFE;
+}
+
+/* GOOGLE+ */
+.sharedom-googleplus {
+    background-color: #DD4B39;
+}
+
+.sharedom-googleplus:hover {
+    background-color: #FF5D49;
+}
